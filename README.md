@@ -6,5 +6,7 @@ O mesmo acontece com empreendedoras em relação à entrega de seus produtos, de
 O objetivo é facilitar a comercialização de produtos e serviços dentro das comunidades, gerando renda e tendo como foco as mulheres moradoras dessas localidades.
 
 TECNOLOGIAS E FERRAMENTAS UTILIZADAS
+
 Front-end:Bootstrap.
+
 Back-end: C# com as funções CRUD de interface com banco de dados.
